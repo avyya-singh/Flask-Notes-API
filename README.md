@@ -47,8 +47,8 @@ This is a simple **Flask-based Notes API** that allows users to create, read, up
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NotesApp.git
-   cd NotesApp
+   git clone https://github.com/avyya-singh/Flask-Notes-API.git
+   cd Flask-Notes-API
    ```
 
 2. Create a virtual environment:
