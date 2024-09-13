@@ -1,8 +1,4 @@
-Here is a `README.md` file for your Flask Notes application:
-
----
-
-# NotesApp
+# Flask NotesApp
 
 This is a simple **Flask-based Notes API** that allows users to create, read, update, and delete (table1) notes. It uses **PostgreSQL** as the database and provides RESTful API endpoints to interact with the notes data.
 
@@ -43,7 +39,7 @@ This is a simple **Flask-based Notes API** that allows users to create, read, up
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NotesApp.git
+   git clone https://github.com/avyya-singh/Flask-Notes-API.git
    cd NotesApp
    ```
 
